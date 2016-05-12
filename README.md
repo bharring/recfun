@@ -1,2 +1,2 @@
 # recfun
-Recursive functional exercises
+Recursive functional exercises in Scala
