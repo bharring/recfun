@@ -1,1 +1,2 @@
 # recfun
+Recursive functional exercises
